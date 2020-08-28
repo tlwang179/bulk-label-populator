@@ -15,7 +15,7 @@ This program can be used to fill a Microsoft Word table with Excel file data. Th
 
 ## How to run label_populator.py?
 1. Download python3
-2. pip install docx
+2. pip install python-docx
 3. pip install pandas
 4. pip install xlrd
 5. In the terminal, change your current directory to the folder containing label_populator.py (we'll call this current_folder for reference)
